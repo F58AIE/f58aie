@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="Coding GIF" />
 </p>
 
 ---
@@ -16,9 +16,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-2f74c0?style=for-the-badge&logo=react&logoColor=white" alt="Role: Full-Stack Developer Badge" />
-  <img src="https://img.shields.io/badge/Status-Self--Taught-ffcc00?style=for-the-badge&logo=bookstack&logoColor=black" alt="Status: Self-Taught Badge" />
-  <img src="https://img.shields.io/badge/Collaboration-Open%20to%20Work-34a853?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaboration: Open to Work Badge" />
+  <img src="https://img.shields.io/badge/Status-Self--Taught-2ca02c?style=for-the-badge&logo=bookstack&logoColor=white" alt="Status: Self-Taught Badge" />
+  <img src="https://img.shields.io/badge/Collaboration-Open%20to%20Work-1f77b4?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaboration: Open to Work Badge" />
 </p>
+
 <p align="center">
   💡 Building clean and maintainable web applications  
   🛠️ Creating full-stack solutions with React, Node.js & databases  
@@ -30,8 +31,8 @@
 ### 🧠 About Me
 
 - 🧬 Self-taught **Full-Stack Developer** specialized in **React**, **Node.js**, **REST APIs**, **MongoDB/PostgreSQL**  
-- 📍 Based in **Bahrain**, building scalable and maintainable applications  
-- ⚙️ Passionate about clean code, usability, and performance  
+- 📍 Based in **Bahrain**, building scalable applications  
+- ⚙️ Passionate about clean code, performance, and usability  
 - 🎯 Motto: *Write smart code. Build real solutions.*
 
 ---
@@ -40,7 +41,7 @@
 
 - 🧠 Think before you code  
 - 🔁 Automate repetitive tasks  
-- 📐 Clean, readable, maintainable code  
+- 📐 Write clean, readable, maintainable code  
 - 🚀 Build projects that solve real problems  
 - 🧭 Continuous learning and improvement
 
@@ -52,6 +53,16 @@
 - 🗄️ Database-driven applications (MongoDB & PostgreSQL)  
 - ⚡ Real-time full-stack projects  
 - 🧪 Exploring advanced React patterns and optimization
+
+---
+
+### 💻 Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| Portfolio Website | My personal website built with React & Tailwind CSS | [View](https://github.com/F58AIE/portfolio) |
+| Task Manager App | Full-stack React + Node.js + MongoDB | [View](https://github.com/F58AIE/task-manager) |
+| Chat Application | Real-time chat with React & Socket.io | [View](https://github.com/F58AIE/chat-app) |
 
 ---
 
