@@ -56,16 +56,6 @@
 
 ---
 
-### 💻 Projects
-
-| Project | Description | Link |
-|---------|-------------|------|
-| Portfolio Website | My personal website built with React & Tailwind CSS | [View](https://github.com/F58AIE/portfolio) |
-| Task Manager App | Full-stack React + Node.js + MongoDB | [View](https://github.com/F58AIE/task-manager) |
-| Chat Application | Real-time chat with React & Socket.io | [View](https://github.com/F58AIE/chat-app) |
-
----
-
 ### 🧰 Tech Stack
 
 <p align="center">
