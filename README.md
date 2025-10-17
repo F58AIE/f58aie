@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Self-Taught+Full-Stack+Developer;Building+Modern+React+Apps;Turning+Ideas+into+Code&center=true&width=800&height=45&color=00ffcc&vCenter=true" alt="typing banner" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="Coding GIF" />
-</p>
+
 
 ---
 
