@@ -15,11 +15,10 @@
 ### 📌 Quick Intro
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Full-Stack%20Developer-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-Self--Taught-yellow?style=for-the-badge&logo=book&logoColor=white" />
-  <img src="https://img.shields.io/badge/Collaboration-Open-9cf?style=for-the-badge&logo=handshake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-2f74c0?style=for-the-badge&logo=react&logoColor=white" alt="Role: Full-Stack Developer Badge" />
+  <img src="https://img.shields.io/badge/Status-Self--Taught-ffcc00?style=for-the-badge&logo=bookstack&logoColor=black" alt="Status: Self-Taught Badge" />
+  <img src="https://img.shields.io/badge/Collaboration-Open%20to%20Work-34a853?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaboration: Open to Work Badge" />
 </p>
-
 <p align="center">
   💡 Building clean and maintainable web applications  
   🛠️ Creating full-stack solutions with React, Node.js & databases  
