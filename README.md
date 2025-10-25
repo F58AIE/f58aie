@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKP6S3j5aZqgF5C/giphy.gif" alt="Professional Coding GIF" width="200"/>
+</p>
+
 <h1 align="center">
   🚀 F58AIE — Full-Stack Developer (React & Go)
 </h1>
