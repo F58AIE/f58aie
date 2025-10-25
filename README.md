@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Self-Taught+Full-Stack+Developer;Building+Modern+React+Apps;Turning+Ideas+into+Code&center=true&width=800&height=45&color=00ffcc&vCenter=true" alt="typing banner" />
 </p>
 
-
-
 ---
 
 ### 📌 Quick Intro
@@ -19,18 +17,18 @@
 </p>
 
 <p align="center">
-  💡 Building clean and maintainable web applications  
-  🛠️ Creating full-stack solutions with React, Node.js & databases  
-  📦 Learning, coding, and shipping every day
+  💡 Building clean, maintainable, and scalable web applications  
+  🛠️ Creating full-stack solutions with React, Node.js, and databases  
+  📦 Learning, coding, and shipping projects every day
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🧬 Self-taught **Full-Stack Developer** specialized in **React**, **Node.js**, **REST APIs**, **MongoDB/PostgreSQL**  
-- 📍 Based in **Bahrain**, building scalable applications  
-- ⚙️ Passionate about clean code, performance, and usability  
+- 🧬 Self-taught **Full-Stack Developer** specializing in **React**, **Node.js**, **REST APIs**, **MongoDB/PostgreSQL**  
+- 📍 Based in **Bahrain**, passionate about building scalable and performant applications  
+- ⚙️ Focused on clean code, optimization, and usability  
 - 🎯 Motto: *Write smart code. Build real solutions.*
 
 ---
@@ -39,18 +37,18 @@
 
 - 🧠 Think before you code  
 - 🔁 Automate repetitive tasks  
-- 📐 Write clean, readable, maintainable code  
-- 🚀 Build projects that solve real problems  
-- 🧭 Continuous learning and improvement
+- 📐 Write clean, readable, and maintainable code  
+- 🚀 Build projects that solve real-world problems  
+- 🧭 Continuous learning and self-improvement
 
 ---
 
 ### 🚧 Currently Building
 
-- 🌐 Modern web apps with React, Node.js & Express  
-- 🗄️ Database-driven applications (MongoDB & PostgreSQL)  
+- 🌐 Modern web applications using React, Node.js & Express  
+- 🗄️ Database-driven applications with MongoDB & PostgreSQL  
 - ⚡ Real-time full-stack projects  
-- 🧪 Exploring advanced React patterns and optimization
+- 🧪 Exploring advanced React patterns and performance optimization
 
 ---
 
