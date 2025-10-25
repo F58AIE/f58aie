@@ -1,18 +1,18 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKP6S3j5aZqgF5C/giphy.gif" alt="Professional Coding GIF" width="200"/>
-</p>
-
 <h1 align="center">
   🚀 F58AIE — Full-Stack Developer (React & Go)
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Self-Taught+Full-Stack+Developer;React,+Node.js+%26+Golang;Building+Scalable+Web+Apps&center=true&width=800&height=45&color=00ffcc&vCenter=true" alt="typing banner" />
+  <img src="https://media.giphy.com/media/3o7TKP6S3j5aZqgF5C/giphy.gif" alt="Professional Coding GIF" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Self-Taught+Full-Stack+Developer;React+%26+Golang+Expert;Building+Scalable+Web+Applications&center=true&width=800&height=45&color=00ffcc&vCenter=true" alt="typing banner" />
 </p>
 
 ---
 
-### 📌 Quick Intro
+### 📌 Quick Snapshot
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-2f74c0?style=for-the-badge&logo=react&logoColor=white" alt="Role Badge" />
@@ -21,18 +21,19 @@
 </p>
 
 <p align="center">
-  💡 Building **clean, maintainable, and scalable web applications**  
-  🛠️ Developing **full-stack solutions with React, Node.js, Golang & databases**  
-  📦 Focused on learning, coding, shipping, and improving every day
+  💡 Building **clean, scalable, and high-performance web applications**  
+  🛠️ Full-stack solutions with **React, Node.js, Golang & Databases**  
+  🚀 Focused on learning, coding, and shipping production-ready apps
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🧬 Self-taught **Full-Stack Developer** skilled in **React**, **Node.js**, **Golang (Fiber & Gin)**, **REST & GraphQL APIs**, **MongoDB/PostgreSQL**  
-- 📍 Based in **Bahrain**, delivering **scalable, production-ready applications**  
-- ⚙️ Passionate about clean architecture, performance, and usability  
+- 🧬 **Full-Stack Developer** (Self-Taught) specializing in **React, Node.js, Golang (Fiber & Gin)**  
+- 🗄️ Skilled in **REST & GraphQL APIs**, **MongoDB/PostgreSQL**, **Docker & CI/CD pipelines**  
+- 📍 Based in **Bahrain**, building **scalable, maintainable, and optimized applications**  
+- ⚡ Passionate about **clean code, performance, and usability**  
 - 🎯 Motto: *Write smart code. Build real solutions.*
 
 ---
@@ -47,12 +48,12 @@
 
 ---
 
-### 🚧 Currently Building
+### 🚧 Current Projects & Focus
 
-- 🌐 **Modern web apps** with React, Node.js & Express  
+- 🌐 Modern **web apps** with React, Node.js & Express  
 - 🖥️ **Backend services** with Golang (Fiber/Gin)  
-- 🗄️ **Database-driven applications** (MongoDB, PostgreSQL)  
-- ⚡ **Real-time applications** with WebSockets & API integrations  
+- 🗄️ **Database-driven applications** (MongoDB & PostgreSQL)  
+- ⚡ **Real-time full-stack projects** with WebSockets & API integrations  
 - 🧪 Exploring **advanced React patterns, performance tuning, and microservices**
 
 ---
@@ -67,15 +68,15 @@
 
 ### 🔧 Backend Expertise
 
-- 🏗️ RESTful APIs & GraphQL  
+- 🏗️ RESTful APIs & GraphQL services  
 - ⚡ Golang microservices with Fiber & Gin  
-- 🗄️ Database design & optimization (MongoDB, PostgreSQL)  
-- 🚀 Deployment & CI/CD pipelines with Docker, GitHub Actions, and cloud platforms  
-- 🔒 Authentication, authorization, and security best practices
+- 🗄️ Database design, optimization & migrations (MongoDB & PostgreSQL)  
+- 🚀 Deployment & CI/CD with Docker, GitHub Actions, and cloud platforms  
+- 🔒 Authentication, authorization, and security best practices  
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Highlights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=F58AIE&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -88,16 +89,16 @@
 
 ---
 
-### ⏳ Dev Journey
+### ⏳ Developer Journey
 
 - 🧠 **2022** — Started web development journey  
 - ⚙️ **2023** — Built full-stack apps using React & Node.js  
-- 🧪 **2024** — Learned Golang & backend optimization  
-- 🚀 **2025** — Shipping production-ready full-stack projects (React + Node.js + Golang)
+- 🧪 **2024** — Learned Golang, microservices & backend optimization  
+- 🚀 **2025** — Shipping **production-ready full-stack projects** (React + Node.js + Golang)
 
 ---
 
-### 🔗 Connect with Me
+### 🔗 Connect & Follow Me
 
 <p align="center">
   <a href="https://github.com/F58AIE" target="_blank">
