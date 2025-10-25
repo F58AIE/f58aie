@@ -1,9 +1,9 @@
 <h1 align="center">
-  🚀 F58AIE — Full-Stack React Developer
+  🚀 F58AIE — Full-Stack Developer (React & Go)
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Self-Taught+Full-Stack+Developer;Building+Modern+React+Apps;Turning+Ideas+into+Code&center=true&width=800&height=45&color=00ffcc&vCenter=true" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Self-Taught+Full-Stack+Developer;React,+Node.js+%26+Golang;Building+Scalable+Web+Apps&center=true&width=800&height=45&color=00ffcc&vCenter=true" alt="typing banner" />
 </p>
 
 ---
@@ -11,24 +11,24 @@
 ### 📌 Quick Intro
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-2f74c0?style=for-the-badge&logo=react&logoColor=white" alt="Role: Full-Stack Developer Badge" />
-  <img src="https://img.shields.io/badge/Status-Self--Taught-2ca02c?style=for-the-badge&logo=bookstack&logoColor=white" alt="Status: Self-Taught Badge" />
-  <img src="https://img.shields.io/badge/Collaboration-Open%20to%20Work-1f77b4?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaboration: Open to Work Badge" />
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-2f74c0?style=for-the-badge&logo=react&logoColor=white" alt="Role Badge" />
+  <img src="https://img.shields.io/badge/Status-Self--Taught-2ca02c?style=for-the-badge&logo=bookstack&logoColor=white" alt="Status Badge" />
+  <img src="https://img.shields.io/badge/Collaboration-Open%20to%20Work-1f77b4?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaboration Badge" />
 </p>
 
 <p align="center">
-  💡 Building clean, maintainable, and scalable web applications  
-  🛠️ Creating full-stack solutions with React, Node.js, and databases  
-  📦 Learning, coding, and shipping projects every day
+  💡 Building **clean, maintainable, and scalable web applications**  
+  🛠️ Developing **full-stack solutions with React, Node.js, Golang & databases**  
+  📦 Focused on learning, coding, shipping, and improving every day
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🧬 Self-taught **Full-Stack Developer** specializing in **React**, **Node.js**, **REST APIs**, **MongoDB/PostgreSQL**  
-- 📍 Based in **Bahrain**, passionate about building scalable and performant applications  
-- ⚙️ Focused on clean code, optimization, and usability  
+- 🧬 Self-taught **Full-Stack Developer** skilled in **React**, **Node.js**, **Golang (Fiber & Gin)**, **REST & GraphQL APIs**, **MongoDB/PostgreSQL**  
+- 📍 Based in **Bahrain**, delivering **scalable, production-ready applications**  
+- ⚙️ Passionate about clean architecture, performance, and usability  
 - 🎯 Motto: *Write smart code. Build real solutions.*
 
 ---
@@ -37,26 +37,37 @@
 
 - 🧠 Think before you code  
 - 🔁 Automate repetitive tasks  
-- 📐 Write clean, readable, and maintainable code  
-- 🚀 Build projects that solve real-world problems  
-- 🧭 Continuous learning and self-improvement
+- 📐 Write clean, readable, maintainable, and testable code  
+- 🚀 Build projects that solve **real-world problems**  
+- 🧭 Continuous learning, refactoring, and optimization
 
 ---
 
 ### 🚧 Currently Building
 
-- 🌐 Modern web applications using React, Node.js & Express  
-- 🗄️ Database-driven applications with MongoDB & PostgreSQL  
-- ⚡ Real-time full-stack projects  
-- 🧪 Exploring advanced React patterns and performance optimization
+- 🌐 **Modern web apps** with React, Node.js & Express  
+- 🖥️ **Backend services** with Golang (Fiber/Gin)  
+- 🗄️ **Database-driven applications** (MongoDB, PostgreSQL)  
+- ⚡ **Real-time applications** with WebSockets & API integrations  
+- 🧪 Exploring **advanced React patterns, performance tuning, and microservices**
 
 ---
 
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,html,css,tailwind,git,github,docker,mongodb,postgres" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,go,js,ts,html,css,tailwind,git,github,docker,mongodb,postgres,graphql" alt="Tech Stack Icons" />
 </p>
+
+---
+
+### 🔧 Backend Expertise
+
+- 🏗️ RESTful APIs & GraphQL  
+- ⚡ Golang microservices with Fiber & Gin  
+- 🗄️ Database design & optimization (MongoDB, PostgreSQL)  
+- 🚀 Deployment & CI/CD pipelines with Docker, GitHub Actions, and cloud platforms  
+- 🔒 Authentication, authorization, and security best practices
 
 ---
 
@@ -75,10 +86,10 @@
 
 ### ⏳ Dev Journey
 
-- 🧠 **2022** — Started learning web development  
-- ⚙️ **2023** — Built first full-stack apps with React & Node.js  
-- 🧪 **2024** — Mastering React patterns & backend optimization  
-- 🚀 **2025** — Shipping production-ready full-stack projects
+- 🧠 **2022** — Started web development journey  
+- ⚙️ **2023** — Built full-stack apps using React & Node.js  
+- 🧪 **2024** — Learned Golang & backend optimization  
+- 🚀 **2025** — Shipping production-ready full-stack projects (React + Node.js + Golang)
 
 ---
 
@@ -106,5 +117,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=58FFD4&center=true&vCenter=true&width=700&lines=Learning+React...;Building+the+Web+of+Tomorrow." alt="Final Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=58FFD4&center=true&vCenter=true&width=700&lines=Learning+React+%26+Golang...;Building+the+Web+of+Tomorrow." alt="Final Typing Banner" />
 </p>
