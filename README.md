@@ -1,5 +1,5 @@
 <h1 align="center">
-  🤖 F58AIE — AI Engineer & Full-Stack Developer
+  🤖 Biz0n58 — AI Engineer
 </h1>
 
 <p align="center">
