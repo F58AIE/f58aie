@@ -83,7 +83,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=F58AIE&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biz0n58&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -100,9 +100,9 @@
 ### 🔗 Connect
 
 <p align="center">
-  <a href="https://github.com/F58AIE"><img src="https://img.shields.io/badge/GitHub-F58AIE-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://twitter.com/F58AIE"><img src="https://img.shields.io/badge/Twitter-@F58AIE-1DA1F2?style=for-the-badge&logo=twitter"/></a>
-  <a href="https://www.buymeacoffee.com/f58aie"><img src="https://img.shields.io/badge/Support-F58AIE-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+  <a href="https://github.com/biz0n58"><img src="https://img.shields.io/badge/GitHub-biz0n58-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://twitter.com/biz0n58"><img src="https://img.shields.io/badge/Twitter-@biz0n58-1DA1F2?style=for-the-badge&logo=twitter"/></a>
+  <a href="https://www.buymeacoffee.com/biz0n58"><img src="https://img.shields.io/badge/Support-biz0n58-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 </p>
 
 ---
@@ -111,7 +111,7 @@
 
 <p align="center">
   <i>“AI isn’t the future. It’s the new baseline.”</i><br/>
-  <b>— F58AIE</b>
+  <b>— biz0n58</b>
 </p>
 
 <p align="center">
