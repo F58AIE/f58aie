@@ -1,68 +1,67 @@
 <h1 align="center">
-🧠 Biz0n58 — Artificial Intelligence Engineer
+⚡ Biz0n58 — Full Stack Engineer
 </h1>
 
 <p align="center">
-  Building intelligent systems • Machine Learning • LLM applications
+React • Golang • AI-powered Applications
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Artificial+Intelligence+Engineer;Machine+Learning+Engineer;LLM+Systems+Builder;AI+Infrastructure+Developer&center=true&width=900&height=45&color=00ffcc&vCenter=true" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Engineer;React+Developer;Golang+Backend+Engineer;AI-Powered+Applications;Building+Modern+Web+Systems&center=true&width=900&height=45&color=00ffcc&vCenter=true" />
 </p>
 
 ---
 
-## 🧠 AI Engineering
+# 🚀 About Me
 
-I design and build **intelligent systems** powered by machine learning and large language models.
+I build modern full stack applications using:
 
-My work focuses on:
+- ⚛️ React & Next.js
+- 🐹 Golang backend systems
+- 🤖 AI integrations & LLM features
+- 🗄️ PostgreSQL & scalable APIs
+- 🐳 Docker-based infrastructure
 
-- 🤖 **LLM applications**
-- 🧠 **Machine learning pipelines**
-- 🔎 **Semantic search & embeddings**
-- 📊 **Data pipelines for AI**
-- ⚙️ **AI system architecture**
-- 🚀 **Deploying scalable AI services**
-
----
-
-## 🔬 Areas of Expertise
-
-- Large Language Models (LLM)
-- Retrieval-Augmented Generation (RAG)
-- AI agents & tool usage
-- Embedding models & semantic search
-- ML experimentation & evaluation
-- AI system design
+Focused on creating fast, scalable, and intelligent web applications.
 
 ---
 
-## 🧰 AI Stack
+# 🧠 What I Build
+
+- AI-powered SaaS platforms
+- Modern admin dashboards
+- REST APIs with Golang
+- Authentication systems
+- E-commerce systems
+- LLM & chatbot integrations
+- Real-time applications
+
+---
+
+# ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,git,github,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,go,nodejs,postgres,mongodb,docker,git,github" />
 </p>
-
-**ML & AI**
-
-- PyTorch  
-- TensorFlow  
-- HuggingFace Transformers  
-- NumPy / Pandas  
-- Scikit-learn  
-
-**LLM & AI Systems**
-
-- RAG pipelines  
-- Vector databases (FAISS / Pinecone / Weaviate)  
-- Embeddings & semantic search  
-- Prompt engineering  
-- Model evaluation  
 
 ---
 
-## 📊 GitHub Activity
+# 🤖 AI Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+- OpenAI APIs
+- RAG systems
+- AI chat integrations
+- Semantic search
+- Prompt engineering
+- AI automation
+
+---
+
+# 📊 GitHub Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=biz0n58&theme=react-dark&hide_border=true"/>
@@ -70,17 +69,18 @@ My work focuses on:
 
 ---
 
-## 🧭 AI Journey
+# 🧭 Current Focus
 
-- **2023** — Started machine learning & data science  
-- **2024** — Built ML models & data pipelines  
-- **2025** — Developed LLM systems and AI applications  
-- **Now** — Engineering intelligent AI systems
+- Building scalable Golang APIs
+- Advanced React applications
+- AI-powered web systems
+- Full stack architecture
+- Performance & security
 
 ---
 
-## ⚡ Philosophy
+# ⚡ Philosophy
 
-> AI systems will transform how software is designed and built.
+> Great software becomes even more powerful when combined with AI.
 
-Building the next generation of **intelligent software**.
+Building the future of intelligent applications.
